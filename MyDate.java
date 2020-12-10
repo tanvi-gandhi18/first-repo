@@ -1,4 +1,4 @@
-class MyDate{
+public class MyDate{
 public static void main(String args[]){
 System.out.println("hello world");
 }
